@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Se realizara un test de prueba para hacer un flujo corto en finsonet del modulo de finsonet hasta chequeo de documento." tests="1" skipped="0" failures="0" errors="0" timestamp="2021-10-20T20:32:08" hostname="DESKTOP-ADB7OQB" time="10.114">
+  <properties/>
+  <testcase name="Realizar carga de documentos en chequeo" classname="Se realizara un test de prueba para hacer un flujo corto en finsonet del modulo de finsonet hasta chequeo de documento." time="10.114"/>
+  <system-out><![CDATA[Feature from file:///C:/Users/RED5G/Desktop/Docs/Proyectos/patronscreenplay/src/test/resources/features/chequeo.feature
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 94.0.4606.61 (418b78f5838ed0b1c69bb4e51ea0252171854915-refs/branch-heads/4606@{#1204}) on port 13686
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+oct 20, 2021 3:32:15 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+]]></system-err>
+</testsuite>

@@ -1,0 +1,10 @@
+co/com/red5g/patronscreenplay/utils/Builder.java
+ co.com.red5g.patronscreenplay.utils.Builder
+co/com/red5g/patronscreenplay/models/builders/ActorBuilder.java
+ co.com.red5g.patronscreenplay.models.builders.ActorBuilder
+co/com/red5g/patronscreenplay/models/Actor.java
+ co.com.red5g.patronscreenplay.models.Actor
+co/com/red5g/patronscreenplay/models/UrlFinsonet.java
+ co.com.red5g.patronscreenplay.models.UrlFinsonet
+co/com/red5g/patronscreenplay/models/builders/UrlFinsonetBuilder.java
+ co.com.red5g.patronscreenplay.models.builders.UrlFinsonetBuilder
