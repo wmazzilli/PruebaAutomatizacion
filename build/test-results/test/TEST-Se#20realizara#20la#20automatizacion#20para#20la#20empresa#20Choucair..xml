@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Se realizara la automatizacion para la empresa Choucair." tests="1" skipped="0" failures="0" errors="0" timestamp="2021-11-22T05:10:38" hostname="DESKTOP-4SPPA2R" time="17.093">
+  <properties/>
+  <testcase name="Realizar el ingreso con usuario y contraseña existente." classname="Se realizara la automatizacion para la empresa Choucair." time="17.093"/>
+  <system-out><![CDATA[Feature from file:///F:/Empresas/Pruebas/Choucair/PruebaAutomatizacion/src/test/resources/features/login.feature
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 95.0.4638.17 (a9d0719444d4b035e284ed1fce73bf6ccd789df2-refs/branch-heads/4638@{#178}) on port 27901
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1637557842.563][WARNING]: This version of ChromeDriver has not been tested with Chrome version 96.
+nov 22, 2021 12:10:42 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+]]></system-err>
+</testsuite>

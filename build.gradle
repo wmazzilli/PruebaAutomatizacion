@@ -1,4 +1,4 @@
-group 'co.com.red5G.automatizacion'
+group 'co.com.choucair.automatizacion'
 version '1.0-SNAPSHOT'
 
 repositories {
